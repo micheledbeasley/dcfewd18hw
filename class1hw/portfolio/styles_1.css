@@ -1,0 +1,25 @@
+Body {
+	background: #FFA500
+}
+
+h1 {
+	color:  purple;
+}
+/*for css the rule goes inside parens and points to a element. for example
+i want the header 1 to have the color purple*/
+body {
+	font-size: medium;
+	font-family: fantasy;
+}
+
+p {
+	font-size: medium;
+	font-family: fantasy;
+}
+p {margin-left: 20px}
+h1 {margin-left: 20px}
+h2 {margin-left: 20px;}
+h3 {margin-left: 20px;}
+ul li {
+	color: red;
+}
